@@ -19,6 +19,7 @@
 | [whatbroke.today](https://whatbroke.today) | AI-powered outage tracker for 100+ services with Telegram alerts | Free |
 | [API Status Check](https://apistatuscheck.com) | Real-time monitoring dashboard for 100+ developer APIs (OpenAI, Stripe, AWS, GitHub). Webhooks, RSS feeds, SVG badges, REST API | Free || [Downdetector](https://downdetector.com) | Crowdsourced outage reports | Free |
 | [istheservicedown.com](https://istheservicedown.com) | Real-time service status checker | Free |
+| [NextReset](https://nextreset.ai/) | Codex reset history and official AI-service incidents | Free |
 | [StatusGator](https://statusgator.com) | Status page aggregator for teams | Paid |
 
 ## Hosted Status Pages
