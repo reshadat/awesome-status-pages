@@ -47,6 +47,7 @@
 | [Gatus](https://github.com/TwiN/gatus) | Go | 5k+ |
 | [cstate](https://github.com/cstate/cstate) | Hugo/Go | 2k+ |
 | [Vigil](https://github.com/valeriansaliou/vigil) | Rust | 1k+ |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Python | 2 |
 | [Staytus](https://github.com/adamcooke/staytus) | Ruby | 2k+ |
 | [Statping](https://github.com/statping/statping) | Go | 7k+ |
 | [Kener](https://github.com/rajnandan1/kener) | Node.js | 2k+ |
